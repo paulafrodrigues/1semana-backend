@@ -1,0 +1,53 @@
+* {
+}
+
+html {
+	font-family: 'Big Shoulders Display', cursive;
+	color: cornsilk;
+	text-align: center;
+}
+
+body {
+	background-color: black;
+}
+
+h1 {
+	background-image: url('../img/amarelo.png');
+}
+
+h2, h3 {
+	background-color: orange;
+    	border-radius: 5px 20px 20px 5px;
+   	width: 198px;
+}
+
+
+.img-cerveja {
+	padding: 0.5em;
+       	text-align: center;
+   	font-style: italic;
+    
+}
+
+.img-latas {
+	    width: 50%;
+}
+
+img {
+	border: 8px solid gray;
+    	border-radius: 10rem;
+}
+
+.historia {
+	float: left;
+    	max-width: 500px;
+    	margin-left: 66px;
+}
+
+.img-jobis {
+
+	font-style: italic;
+    	float: left;
+    	margin-top: 10px;
+
+}
